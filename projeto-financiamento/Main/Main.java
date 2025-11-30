@@ -1,6 +1,5 @@
 package Main;
 
-//Nome: Ana Luiza de Lima da Rocha.
 //Curso: Análise e Desenvolvimento de Sistemas.
 //Data: 17/11/24.
 
@@ -79,4 +78,5 @@ public class Main {
         }
         return financiamentosLidos;
     }
+
 }
