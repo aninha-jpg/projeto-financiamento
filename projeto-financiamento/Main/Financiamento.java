@@ -46,7 +46,8 @@ public abstract class Financiamento implements Serializable {
 			}
 
 			public double pagMensal() {
-				// TODO Auto-generated method stub
+				
 				return 0;
 			}
+
 }
